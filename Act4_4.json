@@ -1,0 +1,53 @@
+{
+    "empleados": [
+      {
+        "nombre": "Laura Gómez",
+        "edad": 30,
+        "cargo": "Ingeniera de Software",
+        "salario": 50000,
+        "proyectos": [
+          {
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "2024-01-15",
+            "tareas": [
+              "Análisis de requisitos",
+              "Diseño de arquitectura"
+            ]
+          },
+          {
+            "nombre": "Aplicación Móvil",
+            "fecha_inicio": "2024-06-01",
+            "tareas": [
+              "Desarrollo frontend",
+              "Pruebas de usabilidad"
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Carlos Ruiz",
+        "edad": 45,
+        "cargo": "Gerente de Proyectos",
+        "salario": 70000,
+        "proyectos": [
+          {
+            "nombre": "Rediseño del Sitio Web",
+            "fecha_inicio": "2023-09-10",
+            "tareas": [
+              "Planificación del proyecto",
+              "Coordinación de equipo"
+            ]
+          },
+          {
+            "nombre": "Sistema de Inventario",
+            "fecha_inicio": "2024-03-20",
+            "tareas": [
+              "Evaluación de proveedores",
+              "Gestión de cronograma"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

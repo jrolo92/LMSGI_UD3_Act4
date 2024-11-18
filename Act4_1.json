@@ -1,0 +1,33 @@
+{
+    "estudiantes":[
+        {
+            "nombre": "Cristina López",
+            "edad": 21,
+            "asignaturas": [
+                {
+                    "nombre": "Lenguaje de Marcas",
+                    "calificacion": 5
+                }
+            ]
+        }
+    ],
+
+    "profesores": [
+        {
+            "nombre": "María Rodríguez",
+            "asignaturas": [
+                {
+                    "asignatura 1": "Matemáticas",
+                    "asignatura 2": "Programación"
+                }
+            ]
+        }
+    ],
+
+    "asignaturas": [
+        {
+            "nombre": "Base de Datos",
+            "creditos": 60
+        }
+    ]
+}
